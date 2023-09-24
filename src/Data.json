@@ -1,0 +1,27 @@
+[
+    {
+      "id": 1,
+      "name": "Aadity Singh",
+      "epmId": 876527,
+      "email": "sumansinghrisu@gmail.com",
+      "contactNumber": "9878228882",
+      "dob": "30/01/2020"
+    },
+    {
+      "id": 2,
+      "name": "Ritu Kumari",
+      "epmId": 771199,
+      "email": "ritusumansingh@gmail.com",
+      "contactNumber": "9878228882",
+      "dob": "02/08/1997"
+    },
+    {
+      "id": 3,
+      "name": "Suman Singh",
+      "epmId": 723834,
+      "email": "12smc120@gmail.com",
+      "contactNumber": "9738459391",
+      "dob": "30/12/1992"
+    }
+  ]
+  
